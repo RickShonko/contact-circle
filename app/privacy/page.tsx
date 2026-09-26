@@ -18,7 +18,7 @@ export default function PrivacyPage() {
           <h2>Who runs this</h2>
           <p>
             {SITE_NAME} is run by {OPERATOR_NAME}.
-            {ADMIN_WHATSAPP && <> You can reach the admin on WhatsApp at 254111986901.</>}
+            {ADMIN_WHATSAPP && <> You can reach the admin on gmail at adminconnect306@gmail.com</>}
           </p>
 
           <h2>What we collect</h2>
